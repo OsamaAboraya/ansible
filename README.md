@@ -22,10 +22,10 @@ Prerequisites:
 <h3>how to run your project:</h3>
 
 
-1-add ansible to your path 
+1-add ansible to your computer path 
 
 
-2-use ubunto to enter to ansible path by "cd /etc/ansible"
+2- enter to ansible path by "cd /etc/ansible" command 
 
 
 3-copy the vpc.yml file to your path 
